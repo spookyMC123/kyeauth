@@ -77,3 +77,4 @@ The system uses SQLite database stored in `database/database.db`. Tables are aut
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+made by N!GHT Playz</> [rakibul]  by ininityforge
